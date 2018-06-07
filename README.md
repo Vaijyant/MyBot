@@ -2,7 +2,7 @@
 The Hello World Bot
 
 ### Author
-Vaijyant
+Vaijyant Tomar
 
 ### Language
 JavaScript
