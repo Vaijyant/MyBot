@@ -1,0 +1,28 @@
+{
+  "name": "mybot",
+  "version": "1.0.0",
+  "description": "My first bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaijyant/MyBot.git"
+  },
+  "keywords": [
+    "bot",
+    "microsoft",
+    "azure"
+  ],
+  "author": "Vaijyant Tomar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaijyant/MyBot/issues"
+  },
+  "homepage": "https://github.com/Vaijyant/MyBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0",
+    "restify": "^7.2.0"
+  }
+}
